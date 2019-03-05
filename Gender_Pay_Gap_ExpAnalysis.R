@@ -45,12 +45,17 @@ Gathered_tidy_data<- tidy_data %>%
          key = 'Wage Type',value = 'Quantity')
 
 View(Gathered_tidy_data)
+write.csv(x = Gathered_tidy_data,'Gathered_tidy_data')
+
 #START PLOTTING
 
 
 #1: GROUP DATA
 
-
+to_plot<-Gathered_tidy_data %>%
+  filter(`Wage Type`=='Basic Salary') %>%
+  group_by(Gender)
   
-  
+ggplot(data = to_plot)+
+  geom_bar(mapping = aes(x=`Autonomous Region`,y=Quantity,fill=Gender),stat = 'identity',position = 'dodge') + coord_flip()
 
