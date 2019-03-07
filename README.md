@@ -6,3 +6,5 @@ The main objective of this repository is to analyze the gender paygap by gender 
 ## Description of the data
 First of all, and only to test the code, I will use the data from the four-yearly salary composition survey of the National Statistics Institute (INE) pertaining to the year 2014. 
 http://www.ine.es/dynt3/inebase/es/index.htm?padre=3207&capsel=3208
+
+## Exploratory Analysis
