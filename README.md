@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  word_document: default
+---
 # Spanish gender paygap analysis
 ## Research objectives and motivation
 
@@ -8,3 +13,13 @@ First of all, and only to test the code, I will use the data from the four-yearl
 http://www.ine.es/dynt3/inebase/es/index.htm?padre=3207&capsel=3208
 
 ## Exploratory Analysis
+
+```{r echo=FALSE}
+Grouped_Basic_salary<-Gathered_tidy_data %>%
+  filter(`Wage Type`=='Basic Salary') %>%
+  group_by(Gender)
+
+ggplot(data = Grouped_Basic_salary)+
+  geom_bar(mapping = aes(x=`Autonomous Region`,y=Quantity,fill=Gender),stat = 'identity',position = 'dodge') + coord_flip() + ggtitle('Basic salary by gender and Autonomous Region')
+```
+
