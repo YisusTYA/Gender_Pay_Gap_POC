@@ -1,0 +1,397 @@
+"","Autonomous Region","Gender","Wage Type","Quantity"
+"1","Andalucía","F","Basic Salary",949.21
+"2","Aragón","F","Basic Salary",952.63
+"3","Asturias, Principado de","F","Basic Salary",963.7
+"4","Balears, Illes","F","Basic Salary",1096.76
+"5","Canarias","F","Basic Salary",985.85
+"6","Cantabria","F","Basic Salary",996.11
+"7","Castilla y León","F","Basic Salary",949.31
+"8","Castilla - La Mancha","F","Basic Salary",921.65
+"9","Cataluña","F","Basic Salary",1118.19
+"10","Comunitat Valenciana","F","Basic Salary",952.7
+"11","Extremadura","F","Basic Salary",848.42
+"12","Galicia","F","Basic Salary",988.12
+"13","Madrid, Comunidad de","F","Basic Salary",1178.92
+"14","Murcia, Región de","F","Basic Salary",910.24
+"15","Navarra, Comunidad Foral de","F","Basic Salary",1183.99
+"16","País Vasco","F","Basic Salary",1329.18
+"17","Rioja, La","F","Basic Salary",1006.48
+"18","Ciudades de Ceuta y Melilla","F","Basic Salary",951.08
+"19","Andalucía","M","Basic Salary",1179.29
+"20","Aragón","M","Basic Salary",1197.53
+"21","Asturias, Principado de","M","Basic Salary",1256.25
+"22","Balears, Illes","M","Basic Salary",1252.94
+"23","Canarias","M","Basic Salary",1069.69
+"24","Cantabria","M","Basic Salary",1264.43
+"25","Castilla y León","M","Basic Salary",1165.56
+"26","Castilla - La Mancha","M","Basic Salary",1133.28
+"27","Cataluña","M","Basic Salary",1370.96
+"28","Comunitat Valenciana","M","Basic Salary",1188.37
+"29","Extremadura","M","Basic Salary",1037.1
+"30","Galicia","M","Basic Salary",1220.71
+"31","Madrid, Comunidad de","M","Basic Salary",1409.1
+"32","Murcia, Región de","M","Basic Salary",1163.53
+"33","Navarra, Comunidad Foral de","M","Basic Salary",1566.25
+"34","País Vasco","M","Basic Salary",1647.96
+"35","Rioja, La","M","Basic Salary",1339.85
+"36","Ciudades de Ceuta y Melilla","M","Basic Salary",988.85
+"37","Andalucía","F","Salary complements",361.41
+"38","Aragón","F","Salary complements",455.45
+"39","Asturias, Principado de","F","Salary complements",428.78
+"40","Balears, Illes","F","Salary complements",391.11
+"41","Canarias","F","Salary complements",396.73
+"42","Cantabria","F","Salary complements",357.69
+"43","Castilla y León","F","Salary complements",425.86
+"44","Castilla - La Mancha","F","Salary complements",403.71
+"45","Cataluña","F","Salary complements",428.05
+"46","Comunitat Valenciana","F","Salary complements",395.65
+"47","Extremadura","F","Salary complements",467.13
+"48","Galicia","F","Salary complements",380.4
+"49","Madrid, Comunidad de","F","Salary complements",495.93
+"50","Murcia, Región de","F","Salary complements",464.95
+"51","Navarra, Comunidad Foral de","F","Salary complements",325.79
+"52","País Vasco","F","Salary complements",463.2
+"53","Rioja, La","F","Salary complements",443.4
+"54","Ciudades de Ceuta y Melilla","F","Salary complements",876.82
+"55","Andalucía","M","Salary complements",578.84
+"56","Aragón","M","Salary complements",668.43
+"57","Asturias, Principado de","M","Salary complements",628.34
+"58","Balears, Illes","M","Salary complements",531.28
+"59","Canarias","M","Salary complements",504.82
+"60","Cantabria","M","Salary complements",564.61
+"61","Castilla y León","M","Salary complements",547.23
+"62","Castilla - La Mancha","M","Salary complements",517.45
+"63","Cataluña","M","Salary complements",672.6
+"64","Comunitat Valenciana","M","Salary complements",581.38
+"65","Extremadura","M","Salary complements",534.2
+"66","Galicia","M","Salary complements",462.84
+"67","Madrid, Comunidad de","M","Salary complements",699.48
+"68","Murcia, Región de","M","Salary complements",615.1
+"69","Navarra, Comunidad Foral de","M","Salary complements",560.8
+"70","País Vasco","M","Salary complements",667.92
+"71","Rioja, La","M","Salary complements",561.44
+"72","Ciudades de Ceuta y Melilla","M","Salary complements",876.6
+"73","Andalucía","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",16.27
+"74","Aragón","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",26.72
+"75","Asturias, Principado de","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",33.46
+"76","Balears, Illes","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",21.51
+"77","Canarias","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",15.96
+"78","Cantabria","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",28.3
+"79","Castilla y León","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",35.12
+"80","Castilla - La Mancha","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",27.64
+"81","Cataluña","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",17.85
+"82","Comunitat Valenciana","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",22.28
+"83","Extremadura","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",37.34
+"84","Galicia","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",28.39
+"85","Madrid, Comunidad de","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",15.6
+"86","Murcia, Región de","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",26.43
+"87","Navarra, Comunidad Foral de","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",13.63
+"88","País Vasco","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",19.94
+"89","Rioja, La","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",25.18
+"90","Ciudades de Ceuta y Melilla","F","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",31.88
+"91","Andalucía","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",40.95
+"92","Aragón","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",32.46
+"93","Asturias, Principado de","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",38.1
+"94","Balears, Illes","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",35.62
+"95","Canarias","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",17.79
+"96","Cantabria","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",48.24
+"97","Castilla y León","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",38.99
+"98","Castilla - La Mancha","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",37.01
+"99","Cataluña","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",29.69
+"100","Comunitat Valenciana","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",29.15
+"101","Extremadura","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",30.75
+"102","Galicia","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",22.15
+"103","Madrid, Comunidad de","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",20.55
+"104","Murcia, Región de","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",34.74
+"105","Navarra, Comunidad Foral de","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",42.73
+"106","País Vasco","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",39.78
+"107","Rioja, La","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",29.08
+"108","Ciudades de Ceuta y Melilla","M","Salary complements for reasons of night,sightseeing or working 
+         during the weekend",56.49
+"109","Andalucía","F","Payments for overtime",0.66
+"110","Aragón","F","Payments for overtime",1.6
+"111","Asturias, Principado de","F","Payments for overtime",1.28
+"112","Balears, Illes","F","Payments for overtime",1.93
+"113","Canarias","F","Payments for overtime",0.56
+"114","Cantabria","F","Payments for overtime",0.71
+"115","Castilla y León","F","Payments for overtime",0.7
+"116","Castilla - La Mancha","F","Payments for overtime",2.16
+"117","Cataluña","F","Payments for overtime",3.55
+"118","Comunitat Valenciana","F","Payments for overtime",3.18
+"119","Extremadura","F","Payments for overtime",0.16
+"120","Galicia","F","Payments for overtime",1.57
+"121","Madrid, Comunidad de","F","Payments for overtime",1.86
+"122","Murcia, Región de","F","Payments for overtime",1.05
+"123","Navarra, Comunidad Foral de","F","Payments for overtime",1.61
+"124","País Vasco","F","Payments for overtime",1.06
+"125","Rioja, La","F","Payments for overtime",2.42
+"126","Ciudades de Ceuta y Melilla","F","Payments for overtime",0.75
+"127","Andalucía","M","Payments for overtime",7.32
+"128","Aragón","M","Payments for overtime",12.67
+"129","Asturias, Principado de","M","Payments for overtime",13.82
+"130","Balears, Illes","M","Payments for overtime",5.92
+"131","Canarias","M","Payments for overtime",5.66
+"132","Cantabria","M","Payments for overtime",10.82
+"133","Castilla y León","M","Payments for overtime",7.09
+"134","Castilla - La Mancha","M","Payments for overtime",8.37
+"135","Cataluña","M","Payments for overtime",13.33
+"136","Comunitat Valenciana","M","Payments for overtime",10.82
+"137","Extremadura","M","Payments for overtime",5.85
+"138","Galicia","M","Payments for overtime",7.25
+"139","Madrid, Comunidad de","M","Payments for overtime",7.76
+"140","Murcia, Región de","M","Payments for overtime",6.13
+"141","Navarra, Comunidad Foral de","M","Payments for overtime",8.35
+"142","País Vasco","M","Payments for overtime",6.62
+"143","Rioja, La","M","Payments for overtime",16.27
+"144","Ciudades de Ceuta y Melilla","M","Payments for overtime",0.43
+"145","Andalucía","F","Ordinary salary",1311.28
+"146","Aragón","F","Ordinary salary",1409.68
+"147","Asturias, Principado de","F","Ordinary salary",1393.76
+"148","Balears, Illes","F","Ordinary salary",1489.8
+"149","Canarias","F","Ordinary salary",1383.14
+"150","Cantabria","F","Ordinary salary",1354.51
+"151","Castilla y León","F","Ordinary salary",1375.87
+"152","Castilla - La Mancha","F","Ordinary salary",1327.52
+"153","Cataluña","F","Ordinary salary",1549.79
+"154","Comunitat Valenciana","F","Ordinary salary",1351.53
+"155","Extremadura","F","Ordinary salary",1315.71
+"156","Galicia","F","Ordinary salary",1370.09
+"157","Madrid, Comunidad de","F","Ordinary salary",1676.71
+"158","Murcia, Región de","F","Ordinary salary",1376.24
+"159","Navarra, Comunidad Foral de","F","Ordinary salary",1511.39
+"160","País Vasco","F","Ordinary salary",1793.44
+"161","Rioja, La","F","Ordinary salary",1452.3
+"162","Ciudades de Ceuta y Melilla","F","Ordinary salary",1828.65
+"163","Andalucía","M","Ordinary salary",1765.45
+"164","Aragón","M","Ordinary salary",1878.63
+"165","Asturias, Principado de","M","Ordinary salary",1898.41
+"166","Balears, Illes","M","Ordinary salary",1790.14
+"167","Canarias","M","Ordinary salary",1580.17
+"168","Cantabria","M","Ordinary salary",1839.86
+"169","Castilla y León","M","Ordinary salary",1719.88
+"170","Castilla - La Mancha","M","Ordinary salary",1659.1
+"171","Cataluña","M","Ordinary salary",2056.89
+"172","Comunitat Valenciana","M","Ordinary salary",1780.57
+"173","Extremadura","M","Ordinary salary",1577.15
+"174","Galicia","M","Ordinary salary",1690.8
+"175","Madrid, Comunidad de","M","Ordinary salary",2116.34
+"176","Murcia, Región de","M","Ordinary salary",1784.76
+"177","Navarra, Comunidad Foral de","M","Ordinary salary",2135.4
+"178","País Vasco","M","Ordinary salary",2322.5
+"179","Rioja, La","M","Ordinary salary",1917.56
+"180","Ciudades de Ceuta y Melilla","M","Ordinary salary",1865.88
+"181","Andalucía","F","Extraordinary payments",20.68
+"182","Aragón","F","Extraordinary payments",28.16
+"183","Asturias, Principado de","F","Extraordinary payments",13.4
+"184","Balears, Illes","F","Extraordinary payments",52.44
+"185","Canarias","F","Extraordinary payments",11.56
+"186","Cantabria","F","Extraordinary payments",22.76
+"187","Castilla y León","F","Extraordinary payments",8.81
+"188","Castilla - La Mancha","F","Extraordinary payments",12.38
+"189","Cataluña","F","Extraordinary payments",20.32
+"190","Comunitat Valenciana","F","Extraordinary payments",20.73
+"191","Extremadura","F","Extraordinary payments",8.29
+"192","Galicia","F","Extraordinary payments",19.16
+"193","Madrid, Comunidad de","F","Extraordinary payments",35.78
+"194","Murcia, Región de","F","Extraordinary payments",15.83
+"195","Navarra, Comunidad Foral de","F","Extraordinary payments",36.52
+"196","País Vasco","F","Extraordinary payments",17.61
+"197","Rioja, La","F","Extraordinary payments",3.33
+"198","Ciudades de Ceuta y Melilla","F","Extraordinary payments",54.97
+"199","Andalucía","M","Extraordinary payments",40.61
+"200","Aragón","M","Extraordinary payments",63.59
+"201","Asturias, Principado de","M","Extraordinary payments",24.24
+"202","Balears, Illes","M","Extraordinary payments",39.79
+"203","Canarias","M","Extraordinary payments",17.65
+"204","Cantabria","M","Extraordinary payments",48.63
+"205","Castilla y León","M","Extraordinary payments",43.18
+"206","Castilla - La Mancha","M","Extraordinary payments",17.85
+"207","Cataluña","M","Extraordinary payments",31.04
+"208","Comunitat Valenciana","M","Extraordinary payments",26.15
+"209","Extremadura","M","Extraordinary payments",19.92
+"210","Galicia","M","Extraordinary payments",18.84
+"211","Madrid, Comunidad de","M","Extraordinary payments",43.16
+"212","Murcia, Región de","M","Extraordinary payments",37.41
+"213","Navarra, Comunidad Foral de","M","Extraordinary payments",24.02
+"214","País Vasco","M","Extraordinary payments",59.1
+"215","Rioja, La","M","Extraordinary payments",12.1
+"216","Ciudades de Ceuta y Melilla","M","Extraordinary payments",44.12
+"217","Andalucía","F","Gross Salary",1331.96
+"218","Aragón","F","Gross Salary",1437.84
+"219","Asturias, Principado de","F","Gross Salary",1407.16
+"220","Balears, Illes","F","Gross Salary",1542.24
+"221","Canarias","F","Gross Salary",1394.7
+"222","Cantabria","F","Gross Salary",1377.27
+"223","Castilla y León","F","Gross Salary",1384.68
+"224","Castilla - La Mancha","F","Gross Salary",1339.9
+"225","Cataluña","F","Gross Salary",1570.11
+"226","Comunitat Valenciana","F","Gross Salary",1372.26
+"227","Extremadura","F","Gross Salary",1324
+"228","Galicia","F","Gross Salary",1389.25
+"229","Madrid, Comunidad de","F","Gross Salary",1712.49
+"230","Murcia, Región de","F","Gross Salary",1392.07
+"231","Navarra, Comunidad Foral de","F","Gross Salary",1547.91
+"232","País Vasco","F","Gross Salary",1811.05
+"233","Rioja, La","F","Gross Salary",1455.63
+"234","Ciudades de Ceuta y Melilla","F","Gross Salary",1883.62
+"235","Andalucía","M","Gross Salary",1806.06
+"236","Aragón","M","Gross Salary",1942.22
+"237","Asturias, Principado de","M","Gross Salary",1922.65
+"238","Balears, Illes","M","Gross Salary",1829.93
+"239","Canarias","M","Gross Salary",1597.82
+"240","Cantabria","M","Gross Salary",1888.49
+"241","Castilla y León","M","Gross Salary",1763.06
+"242","Castilla - La Mancha","M","Gross Salary",1676.95
+"243","Cataluña","M","Gross Salary",2087.93
+"244","Comunitat Valenciana","M","Gross Salary",1806.72
+"245","Extremadura","M","Gross Salary",1597.07
+"246","Galicia","M","Gross Salary",1709.64
+"247","Madrid, Comunidad de","M","Gross Salary",2159.5
+"248","Murcia, Región de","M","Gross Salary",1822.17
+"249","Navarra, Comunidad Foral de","M","Gross Salary",2159.42
+"250","País Vasco","M","Gross Salary",2381.6
+"251","Rioja, La","M","Gross Salary",1929.66
+"252","Ciudades de Ceuta y Melilla","M","Gross Salary",1910
+"253","Andalucía","F","Social security contributions paid by the worker",87.65
+"254","Aragón","F","Social security contributions paid by the worker",91.73
+"255","Asturias, Principado de","F","Social security contributions paid by the worker",92.99
+"256","Balears, Illes","F","Social security contributions paid by the worker",98.34
+"257","Canarias","F","Social security contributions paid by the worker",90.3
+"258","Cantabria","F","Social security contributions paid by the worker",89.62
+"259","Castilla y León","F","Social security contributions paid by the worker",88.95
+"260","Castilla - La Mancha","F","Social security contributions paid by the worker",88.37
+"261","Cataluña","F","Social security contributions paid by the worker",103.83
+"262","Comunitat Valenciana","F","Social security contributions paid by the worker",89.85
+"263","Extremadura","F","Social security contributions paid by the worker",86.55
+"264","Galicia","F","Social security contributions paid by the worker",89.97
+"265","Madrid, Comunidad de","F","Social security contributions paid by the worker",110.43
+"266","Murcia, Región de","F","Social security contributions paid by the worker",87.52
+"267","Navarra, Comunidad Foral de","F","Social security contributions paid by the worker",105.42
+"268","País Vasco","F","Social security contributions paid by the worker",116.17
+"269","Rioja, La","F","Social security contributions paid by the worker",94.24
+"270","Ciudades de Ceuta y Melilla","F","Social security contributions paid by the worker",113.04
+"271","Andalucía","M","Social security contributions paid by the worker",114.39
+"272","Aragón","M","Social security contributions paid by the worker",121.2
+"273","Asturias, Principado de","M","Social security contributions paid by the worker",124.32
+"274","Balears, Illes","M","Social security contributions paid by the worker",116.17
+"275","Canarias","M","Social security contributions paid by the worker",102.04
+"276","Cantabria","M","Social security contributions paid by the worker",121.37
+"277","Castilla y León","M","Social security contributions paid by the worker",113.19
+"278","Castilla - La Mancha","M","Social security contributions paid by the worker",109.31
+"279","Cataluña","M","Social security contributions paid by the worker",131.12
+"280","Comunitat Valenciana","M","Social security contributions paid by the worker",114.56
+"281","Extremadura","M","Social security contributions paid by the worker",101.77
+"282","Galicia","M","Social security contributions paid by the worker",112.61
+"283","Madrid, Comunidad de","M","Social security contributions paid by the worker",132.27
+"284","Murcia, Región de","M","Social security contributions paid by the worker",115.09
+"285","Navarra, Comunidad Foral de","M","Social security contributions paid by the worker",141.39
+"286","País Vasco","M","Social security contributions paid by the worker",146.64
+"287","Rioja, La","M","Social security contributions paid by the worker",122.74
+"288","Ciudades de Ceuta y Melilla","M","Social security contributions paid by the worker",113.85
+"289","Andalucía","F","Deductions IRPF",166.7
+"290","Aragón","F","Deductions IRPF",187.97
+"291","Asturias, Principado de","F","Deductions IRPF",195.27
+"292","Balears, Illes","F","Deductions IRPF",187.31
+"293","Canarias","F","Deductions IRPF",177.01
+"294","Cantabria","F","Deductions IRPF",175.49
+"295","Castilla y León","F","Deductions IRPF",181.63
+"296","Castilla - La Mancha","F","Deductions IRPF",168.57
+"297","Cataluña","F","Deductions IRPF",229.98
+"298","Comunitat Valenciana","F","Deductions IRPF",175.45
+"299","Extremadura","F","Deductions IRPF",172.6
+"300","Galicia","F","Deductions IRPF",182.93
+"301","Madrid, Comunidad de","F","Deductions IRPF",271.18
+"302","Murcia, Región de","F","Deductions IRPF",180.56
+"303","Navarra, Comunidad Foral de","F","Deductions IRPF",196.34
+"304","País Vasco","F","Deductions IRPF",263.34
+"305","Rioja, La","F","Deductions IRPF",199.27
+"306","Ciudades de Ceuta y Melilla","F","Deductions IRPF",229.54
+"307","Andalucía","M","Deductions IRPF",275.28
+"308","Aragón","M","Deductions IRPF",312.89
+"309","Asturias, Principado de","M","Deductions IRPF",324.69
+"310","Balears, Illes","M","Deductions IRPF",274.54
+"311","Canarias","M","Deductions IRPF",222.15
+"312","Cantabria","M","Deductions IRPF",310.13
+"313","Castilla y León","M","Deductions IRPF",269.43
+"314","Castilla - La Mancha","M","Deductions IRPF",242.75
+"315","Cataluña","M","Deductions IRPF",371.43
+"316","Comunitat Valenciana","M","Deductions IRPF",284.25
+"317","Extremadura","M","Deductions IRPF",219.91
+"318","Galicia","M","Deductions IRPF",262.8
+"319","Madrid, Comunidad de","M","Deductions IRPF",401.84
+"320","Murcia, Región de","M","Deductions IRPF",275.11
+"321","Navarra, Comunidad Foral de","M","Deductions IRPF",345.83
+"322","País Vasco","M","Deductions IRPF",389.65
+"323","Rioja, La","M","Deductions IRPF",311.65
+"324","Ciudades de Ceuta y Melilla","M","Deductions IRPF",180.49
+"325","Andalucía","F","Net salary",1077.61
+"326","Aragón","F","Net salary",1158.14
+"327","Asturias, Principado de","F","Net salary",1118.9
+"328","Balears, Illes","F","Net salary",1256.59
+"329","Canarias","F","Net salary",1127.39
+"330","Cantabria","F","Net salary",1112.16
+"331","Castilla y León","F","Net salary",1114.1
+"332","Castilla - La Mancha","F","Net salary",1082.96
+"333","Cataluña","F","Net salary",1236.3
+"334","Comunitat Valenciana","F","Net salary",1106.96
+"335","Extremadura","F","Net salary",1064.85
+"336","Galicia","F","Net salary",1116.35
+"337","Madrid, Comunidad de","F","Net salary",1330.88
+"338","Murcia, Región de","F","Net salary",1123.99
+"339","Navarra, Comunidad Foral de","F","Net salary",1246.15
+"340","País Vasco","F","Net salary",1431.54
+"341","Rioja, La","F","Net salary",1162.12
+"342","Ciudades de Ceuta y Melilla","F","Net salary",1541.04
+"343","Andalucía","M","Net salary",1416.39
+"344","Aragón","M","Net salary",1508.13
+"345","Asturias, Principado de","M","Net salary",1473.64
+"346","Balears, Illes","M","Net salary",1439.22
+"347","Canarias","M","Net salary",1273.63
+"348","Cantabria","M","Net salary",1456.99
+"349","Castilla y León","M","Net salary",1380.44
+"350","Castilla - La Mancha","M","Net salary",1324.89
+"351","Cataluña","M","Net salary",1585.38
+"352","Comunitat Valenciana","M","Net salary",1407.91
+"353","Extremadura","M","Net salary",1275.39
+"354","Galicia","M","Net salary",1334.23
+"355","Madrid, Comunidad de","M","Net salary",1625.39
+"356","Murcia, Región de","M","Net salary",1431.97
+"357","Navarra, Comunidad Foral de","M","Net salary",1672.2
+"358","País Vasco","M","Net salary",1845.31
+"359","Rioja, La","M","Net salary",1495.27
+"360","Ciudades de Ceuta y Melilla","M","Net salary",1615.66
