@@ -22,13 +22,50 @@ col_types = cols(X1 = col_skip()))
 
 The main objective of this repository is to analyze the gender paygap by gender in Spain. It is motivated by the more than obvious wage differences between men and women, and it is my particular way of shedding some light on this fact. In addition, a law was recently passed in Spain requiring companies to publish the salaries of their workers divided into categories. This law also adds that if the wage gap is mś of 25%, the wage gap will be considered to be due to gender unless proven otherwise. Thus, this research will provide an exploratory analysis first, and later a regression study to try to show that the wage differences are not (or are) due to gender.
 
+
 ```{r,echo=FALSE}
-Grouped_Basic_salary<-Gathered_tidy_data %>%
-  filter(`Wage Type`=='Basic Salary') %>%
+Grouped_Gross_salary<-Gathered_tidy_data %>%
+  filter(`Wage Type`=='Gross Salary') %>%
   group_by(Gender)
 
-ggplot(data = Grouped_Basic_salary)+
-  geom_bar(mapping = aes(x=`Autonomous Region`,y=Quantity,fill=Gender),stat = 'identity',position = 'dodge') + coord_flip() + ggtitle('Basic salary by gender and Autonomous Region')
+ggplot(data = Grouped_Gross_salary)+
+  geom_bar(mapping = aes(x=`Autonomous Region`,y=Quantity,fill=Gender),stat = 'identity',position = 'dodge') + coord_flip() + ggtitle('Gross salary by gender and Autonomous Region')
 
 ```
+
+In this graphic we can see a what could be a really troubling gender paygap. Maybe we could say that differences between Autonomous Region and Gender are not really significative, but this is something that we'll comment later. Let's see what is the gender paygap in each Autonomous Region; first I'm going to subset Males and Females by Autonomous Region 
+```{r}
+Males_Gross_salary<-Grouped_Gross_salary%>%
+                    ungroup()%>%
+                    filter(Gender=='M')%>%
+                    select(`Autonomous Region`,Quantity)
+
+Males_Gross_salary
+Females_Gross_salary<-Grouped_Gross_salary%>%
+  ungroup()%>%
+  filter(Gender=='F')%>%
+  select(`Autonomous Region`,Quantity)
+
+Females_Gross_salary
+
+```
+
+One can begin to sense some of the differences that exist, but for a more exhaustive analysis, we are going to construct the table of the gender wage gap by Autonomous Region. 
+
+```{r}
+Gender_paygap_table<-
+  Gathered_tidy_data %>%
+  select(`Autonomous Region`) %>%
+  unique()
+
+Gender_paygap_table$Difference<-Males_Gross_salary$Quantity-Females_Gross_salary$Quantity
+
+Gender_paygap_table$Gender_paygap<-(Males_Gross_salary$Quantity-Females_Gross_salary$Quantity)/Males_Gross_salary$Quantity*100
+
+Gender_paygap_table
+```
+
+We can see in this table that the most part of the Autonomous Region are over the 25% of gender paygap. We could study the variance between those that are over the 25% and those that are not, but again we will go through that later. First of all, let's explain what's happening here: The average annual gross wage is not a good summary measure of the annual wage reflecting the differences between different groups and activities, as a feature of wage distribution functions is that many more workers are listed at lower values than at higher wages. This results in the average wage being higher than both the median wage and the most frequent (modal) wage. There are few workers with very high wages but they have a significant influence on the average wage.
+
+Because of that, in the following chapters, I will use a more exhaustive database, and let's see how our gender paygap is affected. 
 
